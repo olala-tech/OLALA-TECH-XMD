@@ -72,7 +72,7 @@
 ### 🔑 Generate Session
 
 <p align="center">
-<a href="https://olala-xmd-session.onrender.com"><img height="37" title="Session" src="https://img.shields.io/badge/Generate%20Session-green?style=for-the-badge&logo=render"></a>
+<a href="https://olala-xmd-session-8fu1.onrender.com"><img height="37" title="Session" src="https://img.shields.io/badge/Generate%20Session-green?style=for-the-badge&logo=render"></a>
 </p>
 
 ### 🚀 Deploy on Heroku
